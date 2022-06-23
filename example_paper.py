@@ -4,7 +4,7 @@ from Pyscipaper.results import results
 from Pyscipaper.discussion import discussion
 from Pyscipaper.introduction import introduction
 from Pyscipaper.methods import methods
-from Pyscipaper.Legends import legends
+from Pyscipaper.legends import legends
 
 # to work with citations use {Abi-Saab, 1999 #888} # is the record number in the endnote library
 root = "/alzheimer/Roberto"
