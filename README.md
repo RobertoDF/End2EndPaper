@@ -19,5 +19,5 @@ https://github.com/elapouya/python-docx-template
 1. Clone this repo inside your project.
 2. Update root directory in example_paper.py to reflect your folder structure.
 3. Modify each section of the paper (abstract, introduction....).
-4. Run example_paper.py, a docx document will be  saved in the same folder.
+4. Run example_paper.py, a formatted docx document will be  saved in the same folder.
 
