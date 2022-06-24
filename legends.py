@@ -3,7 +3,7 @@ legends = {"Figure 1. Ripples strength correlation depends significantly on dist
                    "(A) blabla. "
                    "(B) blabla.",
 
-           "Figure 2. Differential ripple propagation along the hippocampal longitudinal axis":
+           "Figure 2. Incongruent ripple propagation across hippocampus and cortex":
                     f"(A) blabla."
                     
            }
