@@ -6,7 +6,8 @@ from Pyscipaper.introduction import introduction
 from Pyscipaper.methods import methods
 from Pyscipaper.legends import legends
 
-# to work with citations use {Abi-Saab, 1999 #888} # is the record number in the endnote library
+# to work with citations use {Abi-Saab, 1999 #888}. This solution will work with Endnote.
+
 root = "/alzheimer/Roberto"
 doc = DocxTemplate(f"{root}/Pyscipaper/Manuscript_template.docx")
 
