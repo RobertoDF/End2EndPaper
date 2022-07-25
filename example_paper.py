@@ -35,7 +35,7 @@ data_availability = "All the code used to process the dataset is available at ht
 
 context = {'title': title, "authors": authors, "affiliations": affiliations, "correspondence_to": correspondence_to,
            "keywords": keywords, "abstract": abstract, "introduction": introduction,
-           "discussion": discussion, "methods": methods, "results": results, "legends": legends, "acknowledgments": acknowledgements,
+           "discussion": discussion, "methods": methods, "results": results, "legends": legends, "acknowledgements": acknowledgements,
            "contributions": contributions, "data_availability": data_availability}
 
 doc.render(context)
