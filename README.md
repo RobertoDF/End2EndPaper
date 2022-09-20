@@ -2,14 +2,10 @@
 
 Python tool to write a scientific paper with end-to-end reproducibility. Each number present in the paper can be conveniently linked to a data structure via f-Strings. The output is a standard formatted word document.
 
-example:
-```
-number_areas = 8
-f"We analyzed the LFP signals in {number_areas} brain areas... "
-```
-**Output:**\
-We analyzed the LFP signals in 8 brain areas...   
+Example:
  
+![Figure 1](Example_text.png "Example")
+
 ## Requirements
 
 https://github.com/elapouya/python-docx-template
