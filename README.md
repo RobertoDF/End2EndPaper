@@ -4,7 +4,7 @@ Python tool to write a scientific paper with end-to-end reproducibility. Each nu
 
 Example:
  
-![Example](Compilation_example.png "Example")
+![Example](Example_text.png "Example")
 
 ## Requirements
 
